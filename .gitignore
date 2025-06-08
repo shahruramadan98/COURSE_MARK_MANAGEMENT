@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+dist/
+
+# PHP
+vendor/
+
+# Env
+.env
+.env.local
+
+# Logs
+*.log
+
+# VSCode and system files
+.vscode/
+.DS_Store
